@@ -1,2 +1,3 @@
 api_keys.py
 *.pyc
+*.log
